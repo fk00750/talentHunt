@@ -1,0 +1,398 @@
+[
+  {
+    "state": "Uttar Pradesh",
+    "city": "AGRA",
+    "testCenterCode": "Test Center 1",
+    "testDate": "Sunday, 5 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "ALLAHABAD",
+    "testCenterCode": "Test Center 2",
+    "testDate": "Monday, 6 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "KAUSHAMBI",
+    "testCenterCode": "Test Center 3",
+    "testDate": "Tuesday, 7 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "PRATAPGARH",
+    "testCenterCode": "Test Center 4",
+    "testDate": "Wednesday, 8 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "GORAKHPUR",
+    "testCenterCode": "Test Center 5",
+    "testDate": "Thursday, 9 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "DEORIA",
+    "testCenterCode": "Test Center 6",
+    "testDate": "Friday, 10 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "KANPUR",
+    "testCenterCode": "Test Center 7",
+    "testDate": "Saturday, 11 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "FARUKHABAD",
+    "testCenterCode": "Test Center 8",
+    "testDate": "Sunday, 12 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "BANDA",
+    "testCenterCode": "Test Center 9",
+    "testDate": "Monday, 13 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "FATEHPUR",
+    "testCenterCode": "Test Center 10",
+    "testDate": "Tuesday, 14 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "LUCKNOW",
+    "testCenterCode": "Test Center 11",
+    "testDate": "Wednesday, 15 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "RAIBARELLI",
+    "testCenterCode": "Test Center 12",
+    "testDate": "Thursday, 16 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "BARABANKI",
+    "testCenterCode": "Test Center 13",
+    "testDate": "Friday, 17 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "FAIZABAD",
+    "testCenterCode": "Test Center 14",
+    "testDate": "Saturday, 18 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "SULTANPUR",
+    "testCenterCode": "Test Center 15",
+    "testDate": "Sunday, 19 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "AMETHI",
+    "testCenterCode": "Test Center 16",
+    "testDate": "Monday, 20 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "AMBEDKARNAGAR",
+    "testCenterCode": "Test Center 17",
+    "testDate": "Tuesday, 21 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "VARANASI",
+    "testCenterCode": "Test Center 18",
+    "testDate": "Wednesday, 22 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "AZAMGARH",
+    "testCenterCode": "Test Center 19",
+    "testDate": "Thursday, 23 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "BALLIA",
+    "testCenterCode": "Test Center 20",
+    "testDate": "Friday, 24 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "MAU",
+    "testCenterCode": "Test Center 21",
+    "testDate": "Saturday, 25 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "GHAZIPUR",
+    "testCenterCode": "Test Center 22",
+    "testDate": "Sunday, 26 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "JAUNPUR",
+    "testCenterCode": "Test Center 23",
+    "testDate": "Monday, 27 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "MIRZAPUR",
+    "testCenterCode": "Test Center 24",
+    "testDate": "Tuesday, 28 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "ALIGARH",
+    "testCenterCode": "Test Center 25",
+    "testDate": "Wednesday, 29 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "BASTI",
+    "testCenterCode": "Test Center 26",
+    "testDate": "Thursday, 30 November 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "BAREILLY",
+    "testCenterCode": "Test Center 27",
+    "testDate": "Friday, 1 December 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "BULANDSEHAR",
+    "testCenterCode": "Test Center 28",
+    "testDate": "Saturday, 2 December 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "ETAWAH",
+    "testCenterCode": "Test Center 29",
+    "testDate": "Sunday, 3 December 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "GONDA",
+    "testCenterCode": "Test Center 29",
+    "testDate": "Sunday, 3 December 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "MATHURA",
+    "testCenterCode": "Test Center 29",
+    "testDate": "Sunday, 3 December 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "MEERUT",
+    "testCenterCode": "Test Center 29",
+    "testDate": "Sunday, 3 December 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "MURADABAD",
+    "testCenterCode": "Test Center 29",
+    "testDate": "Sunday, 3 December 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "SAHARANPUR",
+    "testCenterCode": "Test Center 29",
+    "testDate": "Sunday, 3 December 2023"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "JHANSHI",
+    "testCenterCode": "Test Center 29",
+    "testDate": "Sunday, 3 December 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "PATNA",
+    "testCenterCode": "Test Center 1",
+    "testDate": "Sunday, 5 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "GAYA",
+    "testCenterCode": "Test Center 2",
+    "testDate": "Monday, 6 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "MUZAFFARPUR",
+    "testCenterCode": "Test Center 3",
+    "testDate": "Tuesday, 7 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "CHAPRA",
+    "testCenterCode": "Test Center 4",
+    "testDate": "Wednesday, 8 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "SIWAN",
+    "testCenterCode": "Test Center 5",
+    "testDate": "Thursday, 9 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "BHAGALPUR",
+    "testCenterCode": "Test Center 6",
+    "testDate": "Friday, 10 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "KATIHAR",
+    "testCenterCode": "Test Center 7",
+    "testDate": "Saturday, 11 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "MOTIHARI",
+    "testCenterCode": "Test Center8",
+    "testDate": "Sunday,12 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "PURNIA",
+    "testCenterCode": "Test Center9",
+    "testDate": "Monday,13 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "SAMASTIPUR",
+    "testCenterCode": "Test Center10",
+    "testDate": "Tuesday,14 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "MADHUBANI",
+    "testCenterCode": "Test Center11",
+    "testDate": "Wednesday,15 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "DARBHANGA",
+    "testCenterCode": "Test Center12",
+    "testDate": "Thursday,16 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "KATIHAR",
+    "testCenterCode": "Test Center13",
+    "testDate": "Friday,17 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "BUXAR",
+    "testCenterCode": "Test Center14",
+    "testDate": "Saturday,18 November 2023"
+  },
+  {
+    "state": "Bihar",
+    "city": "AURANGABAD",
+    "testCenterCode": "Test Center15",
+    "testDate": "Sunday,19 November 2023"
+  },
+  {
+    "state": "Jharkhand",
+    "city": "BOKARO",
+    "testCenterCode": "Test Center 1",
+    "testDate": "Sunday, 5 November 2023"
+  },
+  {
+    "state": "Jharkhand",
+    "city": "DHANBAD",
+    "testCenterCode": "Test Center 2",
+    "testDate": "Monday, 6 November 2023"
+  },
+  {
+    "state": "Jharkhand",
+    "city": "JAMSHEDPUR",
+    "testCenterCode": "Test Center 3",
+    "testDate": "Tuesday, 7 November 2023"
+  },
+  {
+    "state": "Jharkhand",
+    "city": "RANCHI",
+    "testCenterCode": "Test Center 4",
+    "testDate": "Wednesday, 8 November 2023"
+  },
+  {
+    "state": "Jharkhand",
+    "city": "HAZARIBAGH",
+    "testCenterCode": "Test Center 5",
+    "testDate": "Thursday, 9 November 2023"
+  },
+  {
+    "state": "Chattisgarh",
+    "city": "AMBIKAPUR",
+    "testCenterCode": "Test Center 1",
+    "testDate": "Sunday, 5 November 2023"
+  },
+  {
+    "state": "Chattisgarh",
+    "city": "DURG",
+    "testCenterCode": "Test Center 2",
+    "testDate": "Monday, 6 November 2023"
+  },
+  {
+    "state": "Chattisgarh",
+    "city": "RAIPUR",
+    "testCenterCode": "Test Center 3",
+    "testDate": "Tuesday, 7 November 2023"
+  },
+  {
+    "state": "Chattisgarh",
+    "city": "BILASPUR",
+    "testCenterCode": "Test Center 4",
+    "testDate": "Wednesday, 8 November 2023"
+  },
+  {
+    "state": "Uttrakhand",
+    "city": "DEHRADUN",
+    "testCenterCode": "Test Center 1",
+    "testDate": "Sunday, 5 November 2023"
+  },
+  {
+    "state": "Uttrakhand",
+    "city": "HALDWANI",
+    "testCenterCode": "Test Center 2",
+    "testDate": "Monday, 6 November 2023"
+  },
+  {
+    "state": "Uttrakhand",
+    "city": "HARIDWAR",
+    "testCenterCode": "Test Center 3",
+    "testDate": "Tuesday, 7 November 2023"
+  },
+  {
+    "state": "Madhyapradesh",
+    "city": "JABALPUR",
+    "testCenterCode": "Test Center 1",
+    "testDate": "Sunday, 5 November 2023"
+  },
+  {
+    "state": "Madhyapradesh",
+    "city": "REWA",
+    "testCenterCode": "Test Center 2",
+    "testDate": "Monday, 6 November 2023"
+  },
+  {
+    "state": "Madhyapradesh",
+    "city": "SIDHI",
+    "testCenterCode": "Test Center 3",
+    "testDate": "Tuesday, 7 November 2023"
+  },
+  {
+    "state": "Madhyapradesh",
+    "city": "SATNA",
+    "testCenterCode": "Test Center 4",
+    "testDate": "Wednesday, 8 November 2023"
+  }
+]

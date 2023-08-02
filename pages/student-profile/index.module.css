@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Livvic&display=swap');
+
+.fontLivvic {
+    font-family: 'Livvic', sans-serif !important
+}
+
+.background-image {
+    background-image: url(../../public/shape-bg.png);
+}
+
+#uploadInputBackgroundImagee {
+    background-image: url('../../public/user.png');
+    background-repeat: no-repeat;
+    
+}

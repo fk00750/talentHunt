@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Livvic&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=REM&display=swap");
+
+.fontLivvic {
+  font-family: "Livvic", sans-serif !important;
+}
+
+.fontUrbanBold {
+  font-family: "Urbanist", sans-serif !important;
+}
+
+.fontRem {
+  font-family: "REM", sans-serif;
+}
